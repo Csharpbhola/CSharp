@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identifier", "Identifier", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Identifier_SimpleConcept", "Identifier\One_Identifier_SimpleConcept\One_Identifier_SimpleConcept.csproj", "{76ECD2D5-7444-4FD4-888F-DF9AB34C9418}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Variable", "Variable", "{30A4CA95-86E4-4C67-A63B-97BFC2F9A7EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Variable_SimpleConcept", "Variable\One_Variable_SimpleConcept\One_Variable_SimpleConcept.csproj", "{29D53528-6173-43D7-973E-4B2CF0940C5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{76ECD2D5-7444-4FD4-888F-DF9AB34C9418}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76ECD2D5-7444-4FD4-888F-DF9AB34C9418}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76ECD2D5-7444-4FD4-888F-DF9AB34C9418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D53528-6173-43D7-973E-4B2CF0940C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D53528-6173-43D7-973E-4B2CF0940C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D53528-6173-43D7-973E-4B2CF0940C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D53528-6173-43D7-973E-4B2CF0940C5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{76ECD2D5-7444-4FD4-888F-DF9AB34C9418} = {9351C764-A85F-4C82-99E5-023B05C05E0F}
+		{29D53528-6173-43D7-973E-4B2CF0940C5D} = {30A4CA95-86E4-4C67-A63B-97BFC2F9A7EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0BE06021-6411-444B-B9ED-F8544AC67C2F}
